@@ -22,3 +22,13 @@ Según el diccionario de la Real Academia Española, ser flexible significa tene
 - Repite el estiramiento 2 a 4 veces de ambos lados. 
 - Si sientes dolor agudo o punzante, o dolor en las articulaciones, debes parar. 
 - Mantén ligeramente flexionadas las articulaciones, nunca “fijas” en una posición recta. 
+
+
+## Consejos
+
+- Haz estiramientos suaves y lentos, sin rebotes. 
+- Concéntrate en los principales grupos musculares, como los hombros, el cuello, las caderas, los muslos y las pantorrillas. 
+- Estira los músculos que usas habitualmente o en la actividad. 
+- Mantén el estiramiento durante 10-30 segundos. 
+- Repite el estiramiento 3-5 veces. 
+- Si sientes dolor agudo o punzante, o dolor en las articulaciones, deja de estirarte. 
