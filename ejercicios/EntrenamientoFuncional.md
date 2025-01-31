@@ -15,3 +15,11 @@ El entrenamiento funcional se basa en realizar ejercicios que se adaptan a los m
 - Pérdida de peso: El entrenamiento funcional puede ayudar a controlar el peso y lograr una composición corporal saludable. 
 - Aumento de la autoestima: El entrenamiento funcional ayuda a aumentar la autoestima, ya que se segregan endorfinas, la hormona de la felicidad. 
 - Reducción de dolores de espalda: El entrenamiento funcional ayuda a reducir los dolores de espalda. 
+
+## Instrucciones
+
+- Definir tus objetivos
+- Elegir los ejercicios adecuados
+- Establecer la frecuencia y duración de los entrenamientos
+- Planificar el progreso gradual
+- Alternar grupos musculares
