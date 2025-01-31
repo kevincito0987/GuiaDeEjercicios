@@ -23,3 +23,11 @@ El entrenamiento funcional se basa en realizar ejercicios que se adaptan a los m
 - Establecer la frecuencia y duración de los entrenamientos
 - Planificar el progreso gradual
 - Alternar grupos musculares
+
+## Consejos
+
+- Iniciar con una rutina suave
+- Alternar grupos musculares o sectores
+- Realizar ejercicios que trabajen múltiples grupos musculares
+- Promover la estabilidad y el equilibrio
+- Realizar los ejercicios en diferentes planos de movimiento
