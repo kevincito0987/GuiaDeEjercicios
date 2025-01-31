@@ -23,3 +23,14 @@ CrossFit se define como un sistema de entrenamiento de fuerza y acondicionamient
 - La rutina de entrenamiento del día se llama WOD. 
 - Los ejercicios pueden ser sentadillas, peso muerto, arrancada, plancha abdominal, entre otros. 
 - Los estiramientos, o cool down, relajan los músculos trabajados al finalizar la sesión.
+
+## Consejos
+
+- Debes trabajar cada entrenamiento a tu ritmo. Nunca más allá de tus posibilidades.
+- Crea primero una base de fuerza, movilidad y flexibilidad.
+- Disfruta de cada progreso, escuchando los consejos de tu entrenador, dejando a un lado los pesos y prestando atención a cómo moverte correctamente.
+- Lo más importante es tu mejora personal y no la competición con los amigos.
+- Todos los ejercicios de Crosstraining se pueden adaptar a tus capacidades, puedes autorregular la intensidad de ejecución.
+- Aplica el sentido común, conoce tu cuerpo y tus límites.
+- Esta es la clave de tu éxito. Una buena alimentación te dará más energía, mejorarás en tu recuperación, te hará evitar lesiones… La calidad en los alimentos es mucho más importante que la cantidad.
+
