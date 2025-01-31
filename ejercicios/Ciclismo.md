@@ -31,3 +31,17 @@ El ciclismo es un deporte simétrico que se practica con un elemento mecánico (
 - Usar las señales manuales para cambiar de carril y cruzar
 - Ser cortés y respetuoso con los demás usuarios de la vía
 - Respetar el entorno natural
+
+## Consejos
+
+- Usar casco, luces delanteras y traseras, y ropa reflectante
+- Mantener distancia con el ciclista de adelante
+- Ceder el paso a los peatones y respetar los semáforos
+- No adelantar de forma temeraria
+- Prestar atención al entorno y a la ruta
+- Calentar antes de empezar a pedalear
+- Hacer pausas para comer y evitar el cansancio
+- Dormir lo suficiente y mantener una dieta adecuada
+- Programar días de descanso para que el cuerpo se recupere
+- Revisar la presión de las ruedas, los frenos, la altura del sillín y las luces 
+- Elegir el plato y piñón adecuados para subir pendientes o recorrer largas distancias 
