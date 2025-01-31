@@ -19,3 +19,9 @@ El yoga (del sánscrito yoga ‘unión’, योग en devanagari) es una disci
 - Fomenta la fuerza, la resistencia y el control emocional
 - Refuerza la confianza en uno mismo y aumenta la autoestima
 - Ayuda a afrontar el día con energía y positividad
+
+## Instrucciones
+
+1. Iniciar con un calentamiento de 10-15 minutos.
+2. Realizar el yoga de forma continua durante al menos 30 minutos.
+3. Terminar con un enfriamiento y estiramientos.
