@@ -19,3 +19,15 @@ El ciclismo es un deporte simétrico que se practica con un elemento mecánico (
 - Mejora la capacidad de aprendizaje y la memoria
 - Ayuda a tomar decisiones
 - Previene la degeneración neuronal
+
+## Instrucciones
+
+- Respetar los semáforos y los pasos de peatones
+- Ceder el paso a los peatones
+- Usar casco
+- No usar auriculares o el móvil mientras se conduce
+- No circular en pelotón
+- No adelantar por la derecha o entre vehículos
+- Usar las señales manuales para cambiar de carril y cruzar
+- Ser cortés y respetuoso con los demás usuarios de la vía
+- Respetar el entorno natural
