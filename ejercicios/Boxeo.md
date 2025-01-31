@@ -17,10 +17,18 @@ El boxeo (del inglés: boxing) o pugilismo,a​ es un deporte de combate y un ar
 
 - Ayuda a definir y tonificar los músculos
 
-- Trabaja todo tu cuerpo:
+- Trabaja todo tu cuerpo
 
-- Mejora tu autoestima:
+- Mejora tu autoestima
 
-- Aumentan tus reflejos:
+- Aumentan tus reflejos
 
-- Mejora la estabilidad corporal:
+- Mejora la estabilidad corporal
+
+## Instrucciones
+
+- Los combates se desarrollan en un número determinado de asaltos, con duraciones específicas y periodos de descanso.
+- No se permite el agarre, el uso de los brazos para golpear, ni luchar cuerpo a cuerpo.
+- Un boxeador que cae debe levantarse dentro de los 10 segundos; de lo contrario, pierde el combate.
+- Está prohibido golpear en la nuca, por debajo del cinturón, y realizar cabezazos, mordiscos o empujones.
+- Los golpes solo pueden ser lanzados con la parte acolchada del guante.
