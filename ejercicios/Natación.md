@@ -28,3 +28,14 @@ La natación es la práctica recreativa o deportiva del movimiento y desplazamie
 - Existen diferentes técnicas de viraje según el estilo de nado
 - Es importante escuchar al cuerpo y tomar descansos cuando sea necesario
 - El cansancio puede disminuir el control y el rendimiento, aumentando el riesgo de accidentes
+
+## Consejos
+
+- Es recomendable hacerse una revisión médico deportiva previa.
+- Calienta antes de nadar y estira después de nadar.
+- Protégete del sol con un factor protector 30 o superior.
+- Cuídate del frío.
+- Evita las rozaduras.
+- Hidrátate a menudo.
+- Entra al agua de manera progresiva y segura.
+- Evita nadar en solitario.
