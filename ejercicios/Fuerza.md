@@ -30,3 +30,16 @@ En física clásica, la fuerza (abreviatura F) es un fenómeno que modifica el m
 - Realice 2 a 3 sets de 8 a 15 repeticiones.
 - Entrene durante un mínimo de 8 semanas.
 - Aumente gradualmente los pesos en no más de un 10% cada semana.
+
+## Consejos
+
+- Elegir el peso adecuado: Empieza con un peso que puedas levantar de 12 a 15 veces. 
+- Mantener la postura correcta: Asegúrate de tener la postura correcta en todo momento. 
+- Respirar: Respira de forma adecuada. 
+- Calentar: Antes de empezar, haz un calentamiento de 10 a 15 minutos. 
+- Descansar: Descansa entre series para que tu cuerpo se regenere y puedas mover más peso. 
+- Elegir el vestuario adecuado: Usa zapatos cerrados con buena tracción y ropa adecuada. 
+- Evitar lesiones: No hagas repeticiones máximas, pesos máximos ni maniobras de balística antes de que tu esqueleto esté maduro. 
+- Parar si sientes dolor: Deja de hacer levantamientos si sientes dolor. 
+- Mantener el pecho erguido: Al hacer movimientos en la parte superior del cuerpo, mantén el pecho erguido y los hombros hacia atrás y abajo. 
+- Celebrar el progreso: Celebra cada progreso, sin importar cuán pequeño sea. 
