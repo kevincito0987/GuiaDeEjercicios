@@ -16,3 +16,13 @@ El pilates es un método de ejercicio y movimiento físico. Su objetivo es forta
 - Mejora la inmunidad: El pilates puede ayudar a mejorar la inmunidad. 
 - Mejora la resistencia física: El pilates ayuda a aumentar la resistencia física. 
 
+
+## Instrucciones
+
+- Calentar antes de comenzar
+- Practicar regularmente
+- Mantener una respiración adecuada
+- Prestar atención a la alineación
+- Escuchar a tu cuerpo
+- Concentrarte en la ejecución de los movimientos
+- Controlar el cuerpo
