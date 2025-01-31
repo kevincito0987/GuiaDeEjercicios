@@ -25,3 +25,16 @@ El yoga (del sánscrito yoga ‘unión’, योग en devanagari) es una disci
 1. Iniciar con un calentamiento de 10-15 minutos.
 2. Realizar el yoga de forma continua durante al menos 30 minutos.
 3. Terminar con un enfriamiento y estiramientos.
+
+## Consejos
+
+- Respiración: La respiración es fundamental en el yoga. El instructor puede dar instrucciones sobre ejercicios de respiración. 
+- Posturas: Las posturas de yoga ayudan a aumentar la flexibilidad, la fuerza y el equilibrio. 
+- Escuchar al cuerpo: No te exijas demasiado y escucha a tu cuerpo. El dolor es una señal de que no debes forzarte. 
+- Hidratación: Mantente hidratado, sobre todo si practicas yoga en un lugar caliente. 
+- Alimentación: Evita comer justo antes de practicar yoga. Si has comido mucho, espera al menos 1 o 2 horas. 
+- Ropa: Usa ropa cómoda, ligera y transpirable. 
+- Esterilla: Utiliza una esterilla que no se deslice ni se hunda. 
+- Paciencia: Ten paciencia y no te compares con los demás. 
+- Ambiente: Crea un ambiente adecuado para tu práctica. 
+- Profesor: Pregúntale a tu instructor todas tus dudas y presta atención a sus sugerencias. 
