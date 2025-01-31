@@ -26,3 +26,16 @@ El pilates es un método de ejercicio y movimiento físico. Su objetivo es forta
 - Escuchar a tu cuerpo
 - Concentrarte en la ejecución de los movimientos
 - Controlar el cuerpo
+
+## Consejos
+
+- Buscar un instructor cualificado
+- Comenzar con ejercicios básicos
+- Prestar atención a la alineación
+- Mantener una respiración torácica
+- Activar los músculos deseados
+- Mantener un ritmo consciente y controlado
+- Escuchar al cuerpo
+- Tomar días de descanso
+- Incorporar variedad
+- Fijar objetivos específicos
