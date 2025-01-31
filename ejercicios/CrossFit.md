@@ -13,4 +13,13 @@ CrossFit se define como un sistema de entrenamiento de fuerza y acondicionamient
 - Ayuda a bajar de peso: La intensidad de los ejercicios ayuda a reducir la grasa corporal y a bajar de peso 
 - Mejora la salud mental: El CrossFit ayuda a reducir el estrés y a aumentar la confianza en uno mismo 
 - Promueve el sentido de comunidad: Los entrenamientos en grupo fomentan la colaboración y el apoyo mutuo 
-- Mejora el metabolismo: El CrossFit ayuda a que el metabolismo funcione mejor, gastando menos energía 
+- Mejora el metabolismo: El CrossFit ayuda a que el metabolismo funcione mejor, gastando menos energía .
+
+## Instrucciones
+
+- El calentamiento, o warm up, prepara el cuerpo y los músculos para evitar lesiones.
+- Es importante conocer la técnica de cada ejercicio y sentirse cómoda con el propio peso. ç
+- Se recomienda escuchar al coach y atender a sus explicaciones. 
+- La rutina de entrenamiento del día se llama WOD. 
+- Los ejercicios pueden ser sentadillas, peso muerto, arrancada, plancha abdominal, entre otros. 
+- Los estiramientos, o cool down, relajan los músculos trabajados al finalizar la sesión.
